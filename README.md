@@ -1,16 +1,14 @@
 # AI Shell
 
-An intelligent terminal assistant powered by Claude and Gemini AI models. This tool helps you interact with your terminal using natural language and provides AI-powered assistance for your command-line tasks.
+An intelligent terminal assistant powered by Gemini. This tool helps you interact with your terminal using natural language and provides AI-powered assistance for your command-line tasks.
 
 ## Features
 
 - Natural language command processing
-- Support for both Claude (Anthropic) and Gemini (Google) AI models
 - Direct command execution with '!' prefix
 - Question mode with '?' prefix or suffix
 - Tab completion for files and directories
 - Easy configuration management
-- ANSI color support
 
 ## Installation
 
@@ -32,10 +30,9 @@ pip install -e .
 ```
 
 4. Set up your API keys:
-- Get an API key from Anthropic (Claude): https://console.anthropic.com/
 - Get an API key from Google AI Studio (Gemini): https://makersuite.google.com/app/apikey
 
-5. On first run, you'll be prompted to enter your API keys and select your preferred model.
+5. On first run, you'll be prompted to enter your API key.
 
 ## Usage
 
