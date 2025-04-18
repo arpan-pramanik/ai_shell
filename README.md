@@ -16,7 +16,7 @@ An intelligent terminal assistant powered by Claude and Gemini AI models. This t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai_shell.git
+git clone https://github.com/arpan-pramanik/ai_shell.git
 cd ai_shell
 ```
 
